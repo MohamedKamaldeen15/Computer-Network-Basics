@@ -43,7 +43,7 @@ Metropolitan Area Network (MAN)
 - Example: A city-wide network for public services
 
 - Wide Area Network (WAN)
-- 
+
 - Range: Covers large geographical areas
 - Use: Connecting networks across cities, countries, or continents
 - Example: The Internet itself is the largest WAN
@@ -53,6 +53,3 @@ Metropolitan Area Network (MAN)
    
 - Ethernet uses cables typical fibre cable to connect devices within a network.
 - Data is sent in packets called frames.
-
-
-📄 [Day 1 Notes](./Notes/day1_introduction_networking.md)
